@@ -4,6 +4,6 @@
 
 [should open phone call - phone test](tel:777888999)
 
-[should redirect to stackoverflow - fallback url test](vospayment://e-vos.pl/zamowienie/)
+[should redirect to stackoverflow - fallback url test](vospayment://e-vos.pl/zamowienie/dasdasd)
 
-[should redirect to stackoverflow - Intent lowercased issue test](vospayment://e-vos.pl/zamowienie/)
+[should redirect to stackoverflow - Intent lowercased issue test](vospayment://e-vos.pl/zamowienie/dsadasd)
