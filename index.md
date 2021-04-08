@@ -4,6 +4,6 @@
 
 [should open phone call - phone test](tel:777888999)
 
-[should redirect to stackoverflow - fallback url test](intent://scan/#Intent;scheme=zxing;package=com.google.zxing.client.android;S.browser_fallback_url=https://stackoverflow.com/questions/58431854/add-intent-to-s-browser-fallback-url-android-intent-with-chrome;end)
+[should redirect to stackoverflow - fallback url test](vospayment://e-vos.pl/zamowienie/)
 
-[should redirect to stackoverflow - Intent lowercased issue test](intent://scan/#intent;scheme=zxing;package=com.google.zxing.client.android;S.browser_fallback_url=https://stackoverflow.com/questions/58431854/add-intent-to-s-browser-fallback-url-android-intent-with-chrome;end)
+[should redirect to stackoverflow - Intent lowercased issue test](vospayment://e-vos.pl/zamowienie/)
